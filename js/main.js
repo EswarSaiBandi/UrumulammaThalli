@@ -36,7 +36,7 @@ const donationsData = [
         {"Name":"Devadula Rambabu Garu","Amount":1116,"Village":"Peddavellamilli","Date":"30-04-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Bethina Ramakrishna Garu","Amount":2011,"Village":"Peddavellamilli","Date":"30-04-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Gadde Rambabu Garu","Amount":15000,"Village":"Peddavellamilli","Date":"30-04-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
-        {"Name":"Yedavalli Venketeswara Rao Garu","Amount":20000,"Village":"Peddavellamilli","Date":"30-04-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
+        {"Name":"Yedavalli Koteswara Rao Garu","Amount":20000,"Village":"Peddavellamilli","Date":"30-04-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Karingala Somaraju Garu","Amount":5000,"Village":"Peddavellamilli","Date":"30-04-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Paathuri Prabhakar Rao Garu","Amount":5000,"Village":"Peddavellamilli","Date":"30-04-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Paathuri Hari Babu Garu","Amount":5016,"Village":"Peddavellamilli","Date":"30-04-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
