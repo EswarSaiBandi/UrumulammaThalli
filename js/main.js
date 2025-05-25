@@ -511,7 +511,7 @@ function updateCollectorDonations(donations) {
 }
 
 // Pagination settings
-const ITEMS_PER_PAGE = 10;
+const ITEMS_PER_PAGE = 1000;
 let currentPage = 1;
 let currentDonations = [];
 
@@ -519,7 +519,7 @@ function loadDonations(donations = donationsData) {
     currentDonations = donations;
     currentPage = 1;
     displayDonations();
-    updatePagination();
+    //updatePagination();
     updateTotalDonations(donations);
     updateCollectorDonations(donations);
 }
@@ -551,7 +551,7 @@ function displayDonations() {
         tableBody.appendChild(row);
     });
 }
-
+/*
 function updatePagination() {
     const totalPages = Math.ceil(currentDonations.length / ITEMS_PER_PAGE);
     const pagination = document.getElementById('donations-pagination');
@@ -587,13 +587,13 @@ function updatePagination() {
     `;
     pagination.appendChild(nextLi);
 }
-
+*/
 function changePage(page) {
     const totalPages = Math.ceil(currentDonations.length / ITEMS_PER_PAGE);
     if (page >= 1 && page <= totalPages) {
         currentPage = page;
         displayDonations();
-        updatePagination();
+        // updatePagination();
     }
 }
 
