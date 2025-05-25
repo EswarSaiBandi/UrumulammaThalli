@@ -432,6 +432,7 @@ const donationsData = [
                             {"Name": "Chintha Srimmannarayana Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Singavarapu Rambabu Garu", "Amount": 2116, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Kola Venkatesh Garu", "Amount": 1000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
+                            {"Name": "Rayudu Subbarao Garu", "Amount": 20001, "Village": "Peddavellamilli", "Date": "25-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                                             
                                     
               
