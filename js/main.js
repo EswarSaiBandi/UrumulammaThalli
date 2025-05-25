@@ -511,7 +511,7 @@ function updateCollectorDonations(donations) {
 }
 
 // Pagination settings
-const ITEMS_PER_PAGE = 1000;
+const ITEMS_PER_PAGE = 100;
 let currentPage = 1;
 let currentDonations = [];
 
