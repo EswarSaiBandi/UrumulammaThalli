@@ -109,26 +109,7 @@ const eventsData = [
         location: "Vellamilli Panchayathi",
     },
 
-    {
-        title: "",
-        date: "8/6/2025",
-        time: "All Day",
-        location: "Vellamilli Panchayathi",
-    },
-
-    {
-        title: "",
-        date: "8/6/2025",
-        time: "All Day",
-        location: "Vellamilli Panchayathi",
-    },
-
-    {
-        title: "",
-        date: "8/6/2025",
-        time: "All Day",
-        location: "Vellamilli Panchayathi",
-    },
+    
 
 
 
