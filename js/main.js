@@ -1,12 +1,140 @@
 // Sample data for events, donations, and expenses
 const eventsData = [
     {
-        title: "Ganganamma Urumulamma Amma Vaari Jaathara",
+        title: "Ganganamma Urumulamma Amma Vaari Jaathara, Amma Vaariki Maha Naivedhyalu,migilina Roojulalo Bhajana Kaaryakramalu Jarugunu",
         date: "8/6/2025",
         time: "All Day",
         location: "Vellamilli Panchayathi",
-        description: "Annual traditional festival celebration with cultural programs and rituals"
     },
+
+
+    {
+        title: "Amma vaarini Poore gudise lo Nilabettuta",
+        date: "15/5/2025",
+        time: "From Evening 5:30 PM",
+        location: "Vellamilli Panchayathi",
+    },
+
+    {
+        title: "Puthunti,Athinti,Menamaamala Paanpulu",
+        date: "17/5/2025",
+        time: "From Afternoon 2 PM",
+        location: "Vellamilli Panchayathi",
+    },
+
+    {
+        title: "4 Graamalalo Unna Devathalandhariki Chalividi Paanakalu",
+        date: "18/5/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+    {
+        title: "Singaraajupalem vaariche Koolatam",
+        date: "21/5/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+    {
+        title: "Kalasa Puja",
+        date: "24/5/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+    {
+        title: "Dance Baby Dance(Surya Dance Tanuku)",
+        date: "25/5/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+
+    {
+        title: "Durgamma Kadha",
+        date: "26/5/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+
+    {
+        title: "Archestra (Meghamala Tadepalligudem)",
+        date: "28/5/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+    {
+        title: "Vemparala Narayanarao Gari Kumarudu Vemparala Prasad Gaariche Chandihomam",
+        date: "30/5/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+
+    {
+        title: "Suraj Dance(Vizag) - Grand Event",
+        date: "01/6/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+    {
+        title: "Pedda Vellamilli Gramamulo Rathripoota Kaalika Aasaadhulatho Seeva Kaaryakramam",
+        date: "02/6/2025",
+        time: "Night Time",
+        location: "Pedda Vellamilli",
+    },
+
+    {
+        title: "Chinna Vellamilli Gramamulo Rathripoota Kaalika Aasaadhulatho Seeva Kaaryakramam",
+        date: "4/6/2025",
+        time: "Night Time",
+        location: "Chinna Vellamilli",
+    },
+
+    {
+        title: "Chinthayigudem,Lambadigudem Gramaalalo Rathripoota Kaalika Aasaadhulatho Seeva Kaaryakramam",
+        date: "5/6/2025",
+        time: "Night time",
+        location: "Chinthayigudem,Lambadigudem",
+    },
+
+    {
+        title: "Policheta Thiruguta",
+        date: "7/6/2025",
+        time: "Night time",
+        location: "Vellamilli Panchayathi",
+    },
+
+    {
+        title: "",
+        date: "8/6/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+    {
+        title: "",
+        date: "8/6/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+    {
+        title: "",
+        date: "8/6/2025",
+        time: "All Day",
+        location: "Vellamilli Panchayathi",
+    },
+
+
+
+    
+
+    
      
 ];
 
@@ -341,12 +469,13 @@ function loadEvents() {
                         <i class="fas fa-clock"></i> ${event.time}<br>
                         <i class="fas fa-map-marker-alt"></i> ${event.location}
                     </p>
-                    <p class="card-text">${event.description}</p>
+
                 </div>
             </div>
         `;
         eventsContainer.appendChild(eventCard);
     });
+   
 }
 
 // Function to populate filter options
@@ -434,8 +563,8 @@ function displayDonations() {
             <td>${donation.Name}</td>
             <td>${formattedAmount}</td>
             <td>${donation.Village}</td>
-            <td>${donation.Date}</td>
-            <td>${donation.Collectedby}</td>
+            <td>${donation.Date}</td> 
+              <!-- <td>${donation.Collectedby}</td> -->
         `;
         tableBody.appendChild(row);
     });
