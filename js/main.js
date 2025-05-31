@@ -413,9 +413,687 @@ const donationsData = [
                             {"Name": "Chintha Srimmannarayana Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Singavarapu Rambabu Garu", "Amount": 2116, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Kola Venkatesh Garu", "Amount": 1000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
-                            {"Name": "Rayudu Subbarao Garu", "Amount": 20001, "Village": "Peddavellamilli", "Date": "25-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
-                                            
+                            
 
+                            {
+                              "Name": "Swargiya Marni Pedda Veranna Dampthulu",
+                              "Amount": 20000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Indeti Dasu Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Dharmaravu Garu,Verraju Garu S/O Akula Ram Avathram Garu",
+                              "Amount": 30000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kadithala Venkateshu Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kambhampati Annavaram Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Potla Subbarao Garu",
+                              "Amount": 3000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Karuturi Veera Raghuvalu Garu",
+                              "Amount": 15000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Vaska Bhimaraju Garu",
+                              "Amount": 3000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kadavakollu Nageswararao Garu",
+                              "Amount": 3000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Gandi Yedukondalu Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Singavarapu Nageswararao Garu",
+                              "Amount": 5116,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Bethina Chinnaravu Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Ganji Krishna Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Middha Prakasam Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Veeramalla Nagaraju Garu",
+                              "Amount": 5001,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kambampati Bhaskararao Garu",
+                              "Amount": 3000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Vidiyala Chinna Venkatarao Garu",
+                              "Amount": 1000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Aalapati Pushpavathi Garu",
+                              "Amount": 500,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kambampati Subbarao Gari Kumarulu",
+                              "Amount": 15000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Uppu Satyanarayana Garu (Mani Convent)",
+                              "Amount": 12000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Alam Renuka Devi Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Rayudu Krishna Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kanigolla Satyanaryana Garu",
+                              "Amount": 3000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Parimi Naga Bushanam Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Duggirala Mohana Ranga Garu(padalagunta)",
+                              "Amount": 20000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Nandigani Satynarayana Garu",
+                              "Amount": 3000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Manubothula Sommayya Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kotum Venkateswararao Garu",
+                              "Amount": 1500,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Pillamgoru Sasi Garu",
+                              "Amount": 2500,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Maganti Govindu Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Rapolu Rangarao Garu",
+                              "Amount": 1500,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Uppuniti Nagaraju Garu",
+                              "Amount": 1500,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Maram Suryachandrarao Garu",
+                              "Amount": 20116,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Gobbella Padma Garu (Tadepalligudem)",
+                              "Amount": 1116,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "korasikha Danayya Garu",
+                              "Amount": 5100,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Tatina Krishnamurthy Garu(Unguturu)",
+                              "Amount": 1000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Vidiyala Bulliya Garu kutumba sabyulu",
+                              "Amount": 12000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Thota China Satyanarayana Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kadavakollu Peda Muthyalarao Garu",
+                              "Amount": 10000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Oka Bakthudu(Badampudi)",
+                              "Amount": 500,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Goli Veera Venkata Satyanarayana Murthy Garu[Hyderabad]",
+                              "Amount": 2116,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Udatha Anjani Kumar Garu(Gollala Mamidi)",
+                              "Amount": 2116,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Vankina Sai Pavan Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kondru Rambabu Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Vallabani Veera Raghavulu Garu",
+                              "Amount": 10000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Rayudu Subbarao Garu",
+                              "Amount": 20000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Muliki Rambabu Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Gandikota Mangayya Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kondru Musalayya Garu(Masam Pandu)",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kosanam Pedda Nageshu Garu",
+                              "Amount": 3000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Usurumarthi Bhimaraju Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Thalliboyina Verayya Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Devina Narsimha Murthy Garu",
+                              "Amount": 10000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Abburi Gangaratnam Garu",
+                              "Amount": 20000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Bayar crop Science(P.N.R)",
+                              "Amount": 10232,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Paladugula Durgarao Garu",
+                              "Amount": 20000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Parimi Siva Ram Krishna Garu S/O Nagabushanam Garu",
+                              "Amount": 50116,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Karuturi Satyanarayana Garu",
+                              "Amount": 10005,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Badithi Srinu Garu S/O Nagulu Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Badithi Mangayya Garu S/O Nagulu Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Dandamudi Satyanarayana Garu",
+                              "Amount": 3000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Jujjavarapu Satyavathamma Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Medavankala Balu Garu",
+                              "Amount": 1000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Manubothula Pullarao Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "S Suryanaryana Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Pothula Ramarao Garu",
+                              "Amount": 1100,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Kambhampati Nageswararao Garu(shamiyana)",
+                              "Amount": 10000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Mullapudi Sunil Garu(Krishnapuram)",
+                              "Amount": 1500,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Karnati Apparao Garu(Vaishnavi electricals and home needs)",
+                              "Amount": 10116,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Karnati Verayya Garu",
+                              "Amount": 3116,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Karnati Yerra Venkatesu Garu",
+                              "Amount": 1001,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Dandru Gurayya Garu",
+                              "Amount": 1001,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Grandhi Tanushka Garu(Durga SBI TPG)",
+                              "Amount": 2001,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Yadavalli Rambabu Garu",
+                              "Amount": 5001,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Marni Kasi gari alludu Nalla Rambabu Garu(Ramanagudem)",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Bantumilli Suvarnaraju Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Bandi Subbarao Garu(hotel)",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Karingula Suribabu Garu",
+                              "Amount": 10000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Gundapati Narasimha rao Garu",
+                              "Amount": 3000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Bandhamsetti Nageswararao Garu",
+                              "Amount": 10000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Bandhamsetti Suryarao Garu",
+                              "Amount": 10000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Bandhamsetti Muneswararao Garu",
+                              "Amount": 10000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Yenigalla Vasantha Rayudu Garu",
+                              "Amount": 15000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Marni Namasvini Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Rachakonda Satish Garu(Palakollu)",
+                              "Amount": 500,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Vidiyala Satyanarayana Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Akula Harishchandra Prasad Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Simhadri Srinivasarao Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Rayudu Annapuranamma gari Manavadu Tatina Umamaheswararao Garu",
+                              "Amount": 10000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Korapati Venkatesu Garu",
+                              "Amount": 2000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Eluri Sasirekha Garu",
+                              "Amount": 5000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Banothu Chittibabu Garu",
+                              "Amount": 516,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Gannina Rambabu Garu",
+                              "Amount": 500,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Marni Apparao Garu",
+                              "Amount": 3116,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Akula Subbarao Garu",
+                              "Amount": 2500,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Muddhana Rajkumar Garu",
+                              "Amount": 2202,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
+                          {
+                              "Name": "Oka Bhaktudu",
+                              "Amount": 1000,
+                              "Village": "Peddavellamilli",
+                              "Date": "31-05-2025",
+                              "Collectedby": "Vidiyala Suryachandrarao Garu"
+                          },
 
 
 
