@@ -415,6 +415,278 @@ const donationsData = [
                             {"Name": "Kola Venkatesh Garu", "Amount": 1000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Rayudu Subbarao Garu", "Amount": 20001, "Village": "Peddavellamilli", "Date": "25-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                                             
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            {
+                                "Name": "Kommu Nageswararao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Dulapalli Veerraju Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Kokkiripati Chinna Nagaraju  (rammurthy) Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Bhimadole Bhaskar rao Garu",
+                                "Amount": 800,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Jaliparthi Srinu Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Kokkiripati Pedda Nagaraju Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Jaliparthi Rambabu Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Sheik Nagoor sayibu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Jaladi Subbarao Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Kandilli Rambabu Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Kokkiripati Satyanarayana Garu(auto chinna)",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Yantrapati Pedda Gangaraju Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Yantrapati Madhubabu Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Tadigadapa Prasadu Garu S/O Gothiyya Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Gampala Chinnaravu Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Tadigadapa Veerapandu Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Kokkiripati Mariyya Garu S/O Sathiyya Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Kokkiripati Ramu Garu S/O Rangayya Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Manelli Sesharavu Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Pedapata Venkateswararao Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Meripo Yashoda Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Kunapamu Umamaheshwararao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Manelli Samlu Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Chetti Prasadu Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Tadigadapa Peddiraju Garu S/O Gangayya Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Manelli Srinu Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Muppidi Varalakshmi Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Manelli Nageswara rao Garu S/O Venkata narasayya Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Manelli Venkata Krishna rao Garu S/O Venkata narasayya Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Jaliparthi Raju Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Yantrapati Nagaraju Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Kokkiripati V.V.S. Murthy Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Kodavati Pushpa Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Tadigadapa Bujiyya Garu S/O Kottu Subbarao Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Tadigadapa Seethayya Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Bathhina Imanuel Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
+                              {
+                                "Name": "Kokkiripati Srinu Garu M/O nagaratnam Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Yandrapati Naga Raju Garu"
+                              },
                                     
               
                     
