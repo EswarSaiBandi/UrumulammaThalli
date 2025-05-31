@@ -238,7 +238,7 @@ const donationsData = [
     {"Name": "Karnati Swami Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
     {"Name": "Kesana Gangaraju Garu", "Amount": 5000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
     {"Name": "Chenna Parvathi Garu", "Amount": 1000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
-    {"Name": "Tatina Veeraraghavulu Garu", "Amount": 10000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
+    {"Name": "Tatini Veeraraghavulu Garu", "Amount": 25000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
     {"Name": "Adabala Venkateswararao(Venkanna) Garu", "Amount": 101116, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
     {"Name": "Boina ramarao Garu", "Amount": 3000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
     {"Name": "Dandamudi venkata Jalamayya Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
@@ -385,7 +385,7 @@ const donationsData = [
                         {"Name": "Kesana Nageswararao Garu", "Amount": 2500, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                         {"Name": "Kesana Venkateswararao(Buriyya) Garu", "Amount": 2500, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                         {"Name": "Madhiboina Satyanarayana Garu", "Amount": 10000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
-                        {"Name": "Karuturi Pavan kumar Garu", "Amount": null, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
+                        {"Name": "Karuturi Pavan kumar Garu", "Amount": 1000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
 
 
                         
