@@ -424,7 +424,7 @@ const donationsData = [
 
 
 
-
+                           //Chinna Vellamilli Maadiga Peta Yandrapati Naga Raju
 
 
 
@@ -688,7 +688,893 @@ const donationsData = [
                                 "Collectedby": "Yandrapati Naga Raju Garu"
                               },
                                     
+
+                              //Chinna Vellamilli OC Peta ,Pagadala Prasad
               
+
+
+                              {
+                                "Name": "Vakacharla Yedukondalu Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Nallaganti Venketswararao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Adapa Venkateswararao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Adapa Nagaratnam Garu ",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Polisetti Raju Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Adapa Nageswararao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Adapa Gangaratnam Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Adapa Srinu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Nayudu Srinu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Nallaganti Nageswararao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Nallaganti Krishna Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Bandreddi Nageswararao Garu",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Vemparala Narayana rao Garu",
+                                "Amount": 10500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Sodabatthula Satyanarayana Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chinnamsetti Gangaraju Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Reddy Ramarao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kikkisetti Naresh Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kikkisetti Rambabu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Allamsetti Yugandhar nayudu Garu",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Maddirala Seshu Garu",
+                                "Amount": 3116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kikkisetti Sivanarayana Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kikkisetti Venkanna Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Gundabathula Lakshmanrao Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Reddy Venkateswararao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Pedda Rangayya Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Vakacharla Yaswanth Garu",
+                                "Amount": 4000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Thommidella Suryachandrarao Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Sheik Meera Saheb Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Marisetti Rangamma Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Bandhamsetti Srinu Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Bandaru Kalikrishna Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Bandaru Venkataratnam Garu",
+                                "Amount": 4000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Nallaganti Venkatarao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Thommidella Thrimurthulu Garu",
+                                "Amount": 5116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Nelam Kondayya Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Bayisetti Lakshmi Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Adabala Pentayya(Raju) Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Shankabathula Reddiyya Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Adapa Vishnu Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Nallaganti Adi Narayana Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kovvuri Satynarayana Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chilaka Subbayya Garu",
+                                "Amount": 3011,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Gadi Peda Ramarao Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Posamsetti Venkateswaramma Garu",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Posamsetti Sathiyya Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Posamsetti Peda Nageswararao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Posamsetti Nageswaramma Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Pandiripalli Ganesh Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Abbullu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Yalubandi Swami Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Gundabathula Bhadrayyya Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Athmakuri Abbullu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chilaka Satyanarayana Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Marisetti Satyanarayana Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Dagarapu Veera Nageswararao Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Rudra Ramudu Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Posamsetti China Nageswararao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Vemparala Subramanya Sharma Garu",
+                                "Amount": 6000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Putta Rambabu Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Pulupu Sarrayya Garu ",
+                                "Amount": 3116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Kantharavu Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Mani Garu S/O Krishna Garu",
+                                "Amount": 5116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Vaddilu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Pagadala Srinivasu Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Durga Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Yelubanti Sathiyya Garu",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kikkisetti Nagu Garu",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kikkisetti Balaji Garu",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Bejawada Srinivas Garu",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Nalli Nageswararao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Thota Jagggayya Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Venkateswararao Garu",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Paati Ramana Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kurudu Srinivas Garu",
+                                "Amount": 20000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Vakacharla Vasu Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Vakacharla V V S Gupta Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Guthapalli Subramanyam Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Tummalapalli Rambabu Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kollepara Nagababu Garu",
+                                "Amount": 500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Vakacharla Sai Ranjith Garu",
+                                "Amount": 2116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Koduri Naga Narayana Garu",
+                                "Amount": 3120,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kokkisetti Suryanarayana Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Adabala Satyanarayana Garu",
+                                "Amount": 4000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Buddhana Srinu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Bandreddi Rambabu Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Gadhi Peda Manikyalarao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Ramisetti Nageswararao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Vemparala Bhaskararao Garu ",
+                                "Amount": 8000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Lingam Kesava Garu",
+                                "Amount": 5116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Pagadala Satyanarayana Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Pagadala Subbayya Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Pagadala Venkata Ramarao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Gundabathula Venkanna Babu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Lakshmanarao Garu",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Marisetti Balaji Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kikkisetti Durgavara Prasad Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Pandiripalli Venkateswararao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Ramu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Annavaram Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna  Gangadharam Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Reddy Nageswararao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Thula Yedukondalu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Veera Narasimha murthy Garu",
+                                "Amount": 1000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Nalli Satyanaryana Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Chinna Rangayya Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kikkisetti Srinivasa Rao Garu",
+                                "Amount": 5116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Adapa Satyavathi Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Gundabathula Balaji Garu",
+                                "Amount": 4000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kikkisetti Venkateswararao Garu S/O Srirammurthy Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Reddy Nageswararao Garu S/O Rathayya Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Vakacharla Devi Veeranjaneyulu Garu",
+                                "Amount": 3116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna China Krishna Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Mariyya Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Gadi China Ramarao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kotipalli Peda Kaniki Murthy Garu",
+                                "Amount": 4000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Reddy Venkata Rao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Veerabathula Sriramulu Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Pulupu Chinna Venkatarao Garu",
+                                "Amount": 4000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Allamsetti Satynarayana Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kotipalli China Kaniki Murthy Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Pagadala Chinna Satyanarayana Garu",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Kikkisetti Ramu Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Pedda Krishna Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Yelubandi Appanna Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Chenna Satyanarayana Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+                              {
+                                "Name": "Baddhela Thrimurthulu Garu ",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
                     
  
           
