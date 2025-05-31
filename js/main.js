@@ -2023,7 +2023,7 @@ const donationsData = [
                                 "Collectedby": "Pagadala Prasad Garu"
                               },
                               {
-                                "Name": "Chenna Lakshmanarao Garu",
+                                "Name": "Chenna Pedda Lakshmanarao Garu",
                                 "Amount": 2500,
                                 "Village": "Chinna Vellamilli",
                                 "Date": "31-05-2025",
