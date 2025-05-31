@@ -168,7 +168,7 @@ const donationsData = [
         {"Name":"Paanakala Satyanarayana Garu","Amount":2500,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Paanakala Maavullarao Garu","Amount":2500,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Challa Suryanarayana Garu","Amount":3000,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
-        {"Name":"Peethala Sathubabu Garu","Amount":600,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
+        {"Name":"Peethala Sathibabu Garu","Amount":600,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Parimi Satyanarayana Garu","Amount":20000,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},          
                   
             
@@ -293,7 +293,7 @@ const donationsData = [
             {"Name": "Gelam Sivaprasad(Rajamundry) Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
             {"Name": "Mudhana Satyanarayana(Collector) Garu", "Amount": 5116, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
             {"Name": "Bethini Satheesh S/O paparao Garu", "Amount": 5000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
-            {"Name": "Yaganti Srinivasarao S/o paparao Garu", "Amount": 4000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
+            {"Name": "Yaganti Srinivasarao S/o Ramarao Garu", "Amount": 4000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
             {"Name": "Tadisetti Kesava Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
             {"Name": "Vaddi Lakshmanarao Garu", "Amount": 1500, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
             {"Name": "Akula Chinnavenkatarao s/o tatarao Garu", "Amount": 5000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
@@ -391,7 +391,7 @@ const donationsData = [
                         
                             {"Name": "Cherukuri Seshayya Garu", "Amount": 15000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Yennani Bhulivenkayya Garu", "Amount": 10000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
-                            {"Name": "Vidiyal Pedhanageswararao Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
+                            {"Name": "Vidiyala Pedhanageswararao Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Bollina Madhavarao Garu", "Amount": 10116, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Vemuri Venkatarao Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Maddipati Seshagirirao Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
@@ -403,7 +403,7 @@ const donationsData = [
                             {"Name": "Vadithe Laalu Garu", "Amount": 5000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Cherukuri Sivaramakrishna Garu", "Amount": 5000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Yadagini Satyanarayana S/O subbarao Garu", "Amount": 6000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
-                            {"Name": "Yadagini Suryabrahmanandharao Garu", "Amount": 6000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
+                            {"Name": "Yaganti Suryabrahmanandharao Garu", "Amount": 6000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Dandamudi Krishna Garu", "Amount": 10000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Potam Krishna Garu", "Amount": 200, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
                             {"Name": "Kesana Durgarao Garu", "Amount": 2000, "Village": "Peddavellamilli", "Date": "24-05-2025", "Collectedby": "Vidiyala Suryachandrarao Garu"},
@@ -681,7 +681,7 @@ const donationsData = [
                                 "Collectedby": "Yandrapati Naga Raju Garu"
                               },
                               {
-                                "Name": "Kokkiripati Srinu Garu M/O nagaratnam Garu",
+                                "Name": "Kokkiripati Srinu Garu S/O nagaratnam Garu",
                                 "Amount": 1000,
                                 "Village": "Chinna Vellamilli",
                                 "Date": "31-05-2025",
@@ -1575,6 +1575,53 @@ const donationsData = [
                                 "Date": "31-05-2025",
                                 "Collectedby": "Pagadala Prasad Garu"
                               },
+
+                              {
+                                "Name": "Challa Mahankali Garu ",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+
+                              
+                              {
+                                "Name": "Nallaganti Yedukondalu Garu",
+                                "Amount":3000 ,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+
+                              {
+                                "Name": "Adapa Chinna VenkateswaraRao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+
+                              {
+                                "Name": "Gaadi Srinivasrao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+
+                              {
+                                "Name": "Gaadi Lakshmanrao Gaari Kumarulu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "31-05-2025",
+                                "Collectedby": "Pagadala Prasad Garu"
+                              },
+
+                       
+
+                              
+
+
                     
  
           
