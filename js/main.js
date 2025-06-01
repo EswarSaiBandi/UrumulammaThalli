@@ -2289,6 +2289,336 @@ const donationsData = [
                                 "Collectedby": "Pagadala Prasad Garu"
                               },
 
+
+                              {
+                                "Name": "Velagaleti Rama Rao & Smt. Jaya Lakshmi Garu",
+                                "Amount": 20000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Akurathi Suryanarayana Garu & Sons",
+                                "Amount": 15000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Vaddi Annavaram Garu S/o Narayanarao Garu",
+                                "Amount": 10000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Gundavarapu Bhanu Garu S/o Apparao Garu",
+                                "Amount": 5516,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Tadepalli Srinivasa Garu S/o Rayudu Garu",
+                                "Amount": 5016,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Velagaleti Pentayya Garu & Family",
+                                "Amount": 5016,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Tammisetti Srinu Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Velagaleti Ammiraju Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Muggulla Satyanarayana Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Punnam Rathayya Garu(Medical Shop)",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Nakka Nageswararao Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Tadepalli Manikyalarao Garu & Sons",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Tadepalli Giri Babu Garu S/o Satyanarayana Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Velagaleti Adinarayana Garu",
+                                "Amount": 5000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Gopi Narasimha Murthy Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Chikka Narasimha Murthy Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Nakka Chinna Satyanarayana Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Velagaleti Rama Rao Garu & Ratnakar rao Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Tadepalli Durgaratnam Garu S/O Rayudu Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Tadepalli Achyuta Rao Garu S/o Pothuraju Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Vaddi Chandrashekar Garu,Jyoti Garu(Tanuku)",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Moturi Mangatayaru Garu(Tanuku)",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Velagaleti Srinivasa Rao Garu S/o Pedapullayya Garu",
+                                "Amount": 3000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Lakum Durga Prasad Garu, Naga Devi Garu(Eluru)",
+                                "Amount": 2500,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Pappu Lavanya Garu W/O Balaji Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Muggulla Thrimurthulu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Kokkirala Srirammurthy Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Kotipalli Srinu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Madem Veeranjaneyulu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Tadepalli Nageswararao Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Tadepalli Suresh Garu S/O Srinu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Madem Mangababu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Tadepalli Satyanarayana Garu S/O Peddiraju Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Tadepalli Pothuraju Garu S/O Rayudu Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Rasabathula Siva Sai Garu S/O Gangaratnam Garu",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Manchinasetti Venkataratna Garu,Durga Bhavani Garu(pedatadepalli)",
+                                "Amount": 2000,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Vatturi Mounika Garu(Nuzivedu)",
+                                "Amount": 1116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Chikka Tirumala Satya Shekar Garu,Lakshmi Prabhavathi Garu(Mallipudi)",
+                                "Amount": 1116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Velidindi Subbarao Garu S/O Bojjayya Garu",
+                                "Amount": 1116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Rapolu Prasad Garu , Sarala Garu(Gantavarigudem)",
+                                "Amount": 1116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Vayaleti  Bablu Garu(Hukumpeta,Rjy)",
+                                "Amount": 1116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Kanduri Anand Garu,Geetha Garu (Potavaram)",
+                                "Amount": 1116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Immandhi Shankararao Garu,Kanaka Durga Garu(Kasa Pentapadu)",
+                                "Amount": 1116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Parvatham Prasad Garu, Jahnavi Garu(Undrajavaram)",
+                                "Amount": 1116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Lolla Radhakrishna Garu,Padma Garu(Badhampudi)",
+                                "Amount": 1116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+                              {
+                                "Name": "Rapolu Suresh Garu,Bhavani Garu(Konala)",
+                                "Amount": 1116,
+                                "Village": "Chinna Vellamilli",
+                                "Date": "2025-05-31",
+                                "CollectedBy": "Padmasali Sangam (Akurathi Kishore Garu)"
+                              },
+
+
+
+
+
+
+
                        
 
                               
