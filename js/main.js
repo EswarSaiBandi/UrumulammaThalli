@@ -163,7 +163,7 @@ const donationsData = [
         {"Name":"Vemuri Tatarao Garu","Amount":6001,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Dandamudi SrinivasaRao S/O Tatalu Garu","Amount":2000,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Karuturi Venkatrao Garu","Amount":10000,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
-        {"Name":"Yadagani Peddaramayya Garu","Amount":5000,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
+        {"Name":"Yadagani Peddaramayya Garu","Amount":10000,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Yadagani Peddasatyanarayana Garu","Amount":6000,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Paanakala Satyanarayana Garu","Amount":2500,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
         {"Name":"Paanakala Maavullarao Garu","Amount":2500,"Village":"Peddavellamilli","Date":"24-05-2025","Collectedby":"Vidiyala Suryachandrarao Garu"},
@@ -1882,13 +1882,7 @@ const donationsData = [
                                 "Date": "31-05-2025",
                                 "Collectedby": "Pagadala Prasad Garu"
                               },
-                              {
-                                "Name": "Kurudu Srinivas Garu",
-                                "Amount": 20000,
-                                "Village": "Chinna Vellamilli",
-                                "Date": "31-05-2025",
-                                "Collectedby": "Pagadala Prasad Garu"
-                              },
+                              
                               {
                                 "Name": "Vakacharla Vasu Garu",
                                 "Amount": 3000,
