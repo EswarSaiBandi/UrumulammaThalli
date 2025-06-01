@@ -2614,10 +2614,706 @@ const donationsData = [
                                   "Village": "Peddavellamilli",
                                   "Date": "31-05-2025",
                                   "Collectedby": "Padmasali Sangam (Akurathi Kishore Garu)"
-                                },                              
+                                },             
+                                
 
+                                //gudisetti venkatarao
+                                  {
+                                    "Name": "Bandi Krishnamurthy Garu",
+                                    "Amount": 5000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Bandi Danayya Garu",
+                                    "Amount": 2000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Bandi Venkatarao Garu",
+                                    "Amount": 2000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Yerukala Danaraju Garu",
+                                    "Amount": 3000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Yerukala Peddiraju Garu",
+                                    "Amount": 2000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Botta Venkata Durgarao Garu",
+                                    "Amount": 10000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Botta Surya Chandra Rao Garu",
+                                    "Amount": 3000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Botta Pedda Srinu Garu",
+                                    "Amount": 5000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Botta Veeraswamy Garu",
+                                    "Amount": 5000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Gonuri Sai Kumar Garu",
+                                    "Amount": 2000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Gonuri Pochibabu Garu",
+                                    "Amount": 5116,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Pothineni Chinna Garu",
+                                    "Amount": 2000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Bayyo Manikanta Garu",
+                                    "Amount": 3000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Bayyo Gantayya Garu",
+                                    "Amount": 1000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Gonuri Dhanalakshmi Garu",
+                                    "Amount": 1000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Boyina Radhakrishna Garu",
+                                    "Amount": 2000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Yerra Gangaraju Garu S/O Sheshayya Garu",
+                                    "Amount": 1116,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Yerra Thammayya Gari Kumarulu",
+                                    "Amount": 13000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Yerra Subbarao Garu S/O Seshayya Garu",
+                                    "Amount": 10000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Gudisetti Siddayya Gari Kumarulu",
+                                    "Amount": 10000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Nelapala Perrayya Gari Kumarulu",
+                                    "Amount": 10000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Yerra Ramkrishna Garu S/O Pedda Venkatarao Garu",
+                                    "Amount": 3000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Yerra Sai Durga Garu",
+                                    "Amount": 2000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Katumenu Lakshman Rao Garu",
+                                    "Amount": 5000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Yerra Ramesh Babu Garu",
+                                    "Amount": 5000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Yerra VenkataRao Garu S/O Peramma Garu",
+                                    "Amount": 3116,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Nelapala Srinu Garu S/O Gothiyya Garu",
+                                    "Amount": 2000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Mummidi Pedda Venkatrao Gari Kumarulu",
+                                    "Amount": 7000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
+                                  {
+                                    "Name": "Yerra Ramakrishna Garu S/O Venkatarao Garu",
+                                    "Amount": 2000,
+                                    "Village": "Chinna Vellamilli",
+                                    "Date": "31-05-2025",
+                                    "Collectedby": "Gudisetti Venkatarao Garu"
+                                  },
 
+                                  
+                                    {
+                                      "Name": "Yerra Satyanarayana Gari Tandri Perayya Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Yerra Satyanaryana Garu S/O Venkatarao Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Kareti Rambabu Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Yerra Venkayya Garu",
+                                      "Amount": 3000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Yerakala Subbarao Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Yerra Pochibabu Garu",
+                                      "Amount": 5000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Yerra Satynarayana S/O Pullayya",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Yerra Rambabu Garu S/O Sathiyya Garu",
+                                      "Amount": 3000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Yerra Bagayya Garu S/O Sathiyya Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Srinu Garu S/O Nageswararao Garu",
+                                      "Amount": 5000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Nagarjuna Garu S/O Krishna Garu",
+                                      "Amount": 4000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Nageswararo Garu S/O Kambayya Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Gangaraju Garu S/O Kambayya Garu",
+                                      "Amount": 3000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Srinu Garu S/O Krishnamurthy Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Yerra Seshadri Garu S/O Venkatarao Garu",
+                                      "Amount": 3000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Veera Venkatarao Garu",
+                                      "Amount": 3000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Vasu Garu S/O Nageswarao Garu",
+                                      "Amount": 4000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Veera Swamy Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Yesu Garu S/O Subbarao Garu",
+                                      "Amount": 5116,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Yerra Tatarao Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Yerra Somayya Garu S/O Narayya Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Mummidi Rama Rao Garu",
+                                      "Amount": 3000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Kadali Suresh Garu",
+                                      "Amount": 3000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Nageswararao Garu S/O Musalayya Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Subbarao Garu S/O Musalayya Garu",
+                                      "Amount": 3000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Nelapala Nageswararao Garu S/O Somulu Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    {
+                                      "Name": "Chundru Veera Swamy Garu",
+                                      "Amount": 2000,
+                                      "Village": "Chinna Vellamilli",
+                                      "Date": "31-05-2025",
+                                      "Collectedby": "Gudisetti Venkatarao Garu"
+                                    },
+                                    
+                                    //Komati Srinivas
+                                    
+                                    
+                                      {
+                                        "Name": "Komati Gangadhara Satyanarayana Garu(Bosu)",
+                                        "Amount": 10116,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Peddiraju Garu S/O Venakataratnam Garu",
+                                        "Amount": 10116,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Satyanaryana Garu & Sons",
+                                        "Amount": 6000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Dasari Chinna Venkatarao Garu",
+                                        "Amount": 6000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Madhubabu Garu",
+                                        "Amount": 10116,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Chinna Subbarao Garu S/O Chinna Swami Garu",
+                                        "Amount": 5116,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Nageswararao Garu S/O Rammurthy Garu",
+                                        "Amount": 5116,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Gangaraju Garu S/O Venkataratnam Garu",
+                                        "Amount": 5000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Venkataeswararao Garu S/O Rangaravu Garu",
+                                        "Amount": 5000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Pedda Subbarao Gari Kumarulu",
+                                        "Amount": 5000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Matta Nagaraju Garu",
+                                        "Amount": 4000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Matta Venkata Rao Garu",
+                                        "Amount": 4000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Dasari Chinna Subbarao Garu",
+                                        "Amount": 4000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Venkateswara rao Garu S/O Koteswararao Garu",
+                                        "Amount": 4000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Satyanarayana Garu S/O Peddaswamy Garu",
+                                        "Amount": 3000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Srinivasa Rao Garu S/O Peddaswamy Garu",
+                                        "Amount": 3000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Borra Ramshekhar Garu",
+                                        "Amount": 3000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Thonta Veeraraju Garu",
+                                        "Amount": 3000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Thonta Nagaraju Garu",
+                                        "Amount": 3000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Katta Daneshwara rao Garu",
+                                        "Amount": 3000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Subbarao Garu S/O Venkataratnam Garu",
+                                        "Amount": 3000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Thonta Venkateswararao Garu S/O Goppayya Garu",
+                                        "Amount": 3000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Relangi Ramkrishna Garu",
+                                        "Amount": 3000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
+                                      {
+                                        "Name": "Komati Daneswara rao Garu",
+                                        "Amount": 3000,
+                                        "Village": "Chinna Vellamilli",
+                                        "Date": "31-05-2025",
+                                        "Collectedby": "Komati Srinivas Garu"
+                                      },
 
+                                      
+                                        {
+                                          "Name": "Komati Paparavu Garu",
+                                          "Amount": 3000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Komati Laxmanrao Garu",
+                                          "Amount": 3000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Matta Krishnamurthy Garu",
+                                          "Amount": 3000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Komati Nagababu Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Komati Ravi Garu",
+                                          "Amount": 2500,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Thonta Venkateswararao Garu S/O Venkatarao Garu",
+                                          "Amount": 2500,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Thonta Gopi Garu",
+                                          "Amount": 2500,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Thonta Venkata Rao Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Thonta Venkateswararao Garu S/O Manikyam Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Thonta Bhasakar Rao Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Relangi Jogayya Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Komati Srinu Garu S/O Ramarao Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Gudavalli Gopi Krishna Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Marisetti Durgaravu Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Komati Saraswathi Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Dasari Bulli Venkatarao Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Komati Gangaraju Garu S/O Bullabbayi Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },
+                                        {
+                                          "Name": "Marisetti Venkatarao Garu",
+                                          "Amount": 2000,
+                                          "Village": "Chinna Vellamilli",
+                                          "Date": "31-05-2025",
+                                          "Collectedby": "Komati Srinivas Garu"
+                                        },                                      
+                                                                        
+                              
 
                                               
 
