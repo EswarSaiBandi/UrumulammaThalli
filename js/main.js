@@ -2293,7 +2293,7 @@ const donationsData = [
                               {
                                 "Name": "Velagaleti Rama Rao & Smt. Jaya Lakshmi Garu",
                                 "Amount": 20000,
-                                "Village": " Peddavellamilli",
+                                "Village": "Peddavellamilli",
                                 "Date": "31-05-2025",
                                 "Collectedby": "Padmasali Sangam (Akurathi Kishore Garu)"
                               },
