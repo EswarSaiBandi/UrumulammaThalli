@@ -3330,7 +3330,7 @@ const donationsData = [
 const expensesData = [
     {
         item: "Expense1",
-        amount: "₹",
+        amount: "₹10",
         date: "01-04-2025",
         description: ""
     },
